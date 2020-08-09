@@ -53,3 +53,13 @@ npm install
 
 npm start
 ```
+
+### Mobile
+
+```sh
+cd mobile
+
+npm install
+
+npm start
+```
