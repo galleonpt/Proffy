@@ -43,3 +43,13 @@ npm install
 
 npm start
 ```
+
+### Server
+
+```sh
+cd backend
+
+npm install
+
+npm start
+```
