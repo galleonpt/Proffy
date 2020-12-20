@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="https://github.com/galleonpt/Proffy/blob/master/.github/logo.png" alt="Proffy" width="280"/>
+   <img src="https://github.com/galleonpt/Proffy/blob/master/.github/logo.svg" alt="Proffy" width="280"/>
 </p>
 
 > :rocket: Project made to connect teachers to students, made in Next Level Week 2 by [Diego Fernades](https://github.com/diego3g), CTO at [Rocketseat](https://github.com/Rocketseat)
